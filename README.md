@@ -334,3 +334,5 @@ Machine Learning production software requires a more diverse set of test suites 
 
    
     
+
+- [AgentMarket](https://agentmarket.cloud) - B2A marketplace for AI agents. Enterprise-ready, 189 APIs, real energy data.
